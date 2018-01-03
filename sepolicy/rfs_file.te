@@ -1,2 +1,0 @@
-allow rfs_file persist_file:filesystem associate;
-

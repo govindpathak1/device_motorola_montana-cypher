@@ -1,2 +1,0 @@
-# KS addtions
-allow netd toolbox_exec:file {getattr open read execute ioctl execute_no_trans};
